@@ -1,0 +1,25 @@
+.container {
+  text-align: center;
+}
+
+.well {
+  background-color: #6b6187;
+  margin-top: 50px;
+  padding: 100px;
+  font-size: 20pt;
+}
+
+div.display {
+  display: none;
+  font-family: serif;
+  background-color: #0a85d4;
+  text-align: center;
+}
+
+p {
+  background-color: white;
+  text-align: center;
+  display: none;
+  font-family: serif;
+  margin-top: 50px;
+}
